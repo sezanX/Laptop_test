@@ -1,1 +1,2 @@
-# Laptop_test
+# Battery test :
+Cmd > `powercfg /batteryreport`
